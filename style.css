@@ -9,7 +9,7 @@ body {
     line-height: 1.6;
     font-weight: 400;
     font-family: 'Montserrat', sans-serif;
-    background-image: url('../email-pattern.png');
+    background-image: url('email-pattern.png');
     background-repeat: repeat;
     background-attachment: fixed;
     text-align: justify;
